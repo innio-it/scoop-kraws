@@ -1,0 +1,17 @@
+{
+    "version": "0.6.0",
+    "architecture": {
+        "64bit": {
+            "url": "http://kraws-artefacts.s3-website.eu-central-1.amazonaws.com/v0.6.0/kraws_0.6.0_windows_amd64.zip",
+            "bin": [
+                "kraws.exe"
+            ],
+            "hash": "b2a08c6a2b0e15c46e260f5269ef129c8273908cba5d60ca59967d2529fa9ba5"
+        }
+    },
+    "homepage": "https://github.com/innio-it/kraws",
+    "description": "KRAWS is short for Key Ring for AWS and allows you to assume roles in your AWS Accounts by authenticating towards your federated IDP",
+    "persist": [
+        ".kraws.yaml"
+    ]
+}
