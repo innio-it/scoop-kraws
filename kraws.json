@@ -1,12 +1,12 @@
 {
-    "version": "0.6.1",
+    "version": "0.6.2",
     "architecture": {
         "64bit": {
-            "url": "http://kraws-artefacts.s3-website.eu-central-1.amazonaws.com/v0.6.1/kraws_0.6.1_windows_amd64.zip",
+            "url": "http://kraws-artefacts.s3-website.eu-central-1.amazonaws.com/v0.6.2/kraws_0.6.2_windows_amd64.zip",
             "bin": [
                 "kraws.exe"
             ],
-            "hash": "12989fdeaa0dd3c77a13bf9ad270655c95bbaa623d17ec4cf4bda46ada604a98"
+            "hash": "b53aa461354a8b97e17547a6ebf3d44386c8f6bc7e3b6c432caa7cd0c8a4e3e4"
         }
     },
     "homepage": "https://github.com/innio-it/kraws",
